@@ -1,0 +1,6 @@
+\select@language {croatian}
+\contentsline {section}{\numberline {1}Problem}{ii}{section.1}
+\contentsline {section}{\numberline {2}Rje\IeC {\v s}enje}{iii}{section.2}
+\contentsline {subsection}{\numberline {2.1}1. zadatak}{iii}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}2. zadatak}{v}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}3. zadatak}{vii}{subsection.2.3}
